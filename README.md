@@ -32,3 +32,14 @@ Cuota = Monto \cdot \frac{i\,(1+i)^n}{(1+i)^n - 1}
 Se muestra la tabla de amortización (cuota, interés, abono a capital y saldo) y los totales pagados.
 
 Se pregunta si desea simular otro préstamo; el programa repite mientras responda "S".
+
+## Datos de Entrada
+Aqui van el texto
+## Datos que Procesa
+Aqui va el texto
+## Datos de Salida
+Aqui va el texto
+## Tecnología Utilizada
+Aqui va el texto
+# Capturas
+Aqui van las imagenes
