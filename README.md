@@ -34,27 +34,6 @@ Se muestra la tabla de amortización (cuota, interés, abono a capital y saldo) 
 Se pregunta si desea simular otro préstamo; el programa repite mientras responda "S".
 
 ## Datos de Entrada
-Aqui van el texto
-## Datos que Procesa
-Aqui va el texto
-## Datos de Salida
-Aqui va el texto
-## Tecnología Utilizada
-Aqui va el texto
-# Capturas
-## Ejercicio 1
-<img width="400" height="225" alt="F1tl" src="https://github.com/user-attachments/assets/00996af5-6b4b-4810-bdd9-5e299da1ff30" />
-<img width="400" height="225" alt="F2" src="https://github.com/user-attachments/assets/8f3f95a5-3dda-4c35-a14c-281530ff1465" />
-<img width="400" height="225" alt="F3" src="https://github.com/user-attachments/assets/b269716f-fda4-4147-9759-3bde4f8a5f00" />
-<img width="400" height="225" alt="F4" src="https://github.com/user-attachments/assets/8639b8be-720a-4236-a880-70499a55df85" />
-<img width="400" height="225" alt="F5" src="https://github.com/user-attachments/assets/3b16b150-855e-49ac-aafd-cc4d73530ac0" />
- 
-## Ejercicio 2
-<img width="400" height="225" alt="2F" src="https://github.com/user-attachments/assets/4ea75239-e6d8-4d66-a3ce-8e5fd059532b" />
-<img width="800" height="450" alt="2F1" src="https://github.com/user-attachments/assets/acee12c9-a94b-49d3-a9b4-fc1d8c462e80" />
-
-3. Datos de entrada
-
 Menú principal. El usuario ingresa la opción 1, 2 o 3. Es un número entero ( int ) y se valida con int.TryParse.
 
 Ejercicio 1: Cajero automático.
@@ -77,9 +56,7 @@ Ejercicio 2: Simulador de préstamo.
 •	La respuesta a "¿Desea simular otro préstamo?" es un texto ( string ). El programa repite la simulación solo si el usuario responde "S".
 
 En caso de que algún dato sea incorrecto, el programa volverá a solicitar la información (aplica para monto, plazo, categoría y montos del cajero). Si el error ocurre al elegir una opción del menú, se mostrará un mensaje de advertencia.
-
-5. Datos que procesa
-
+## Datos que Procesa
 •	Validación del PIN, registro de intentos erróneos y bloqueo de la cuenta si se excede el límite.
 
 •	Actualización del saldo tras cada transacción (depósito o retiro), llevando un conteo de las operaciones.
@@ -91,6 +68,21 @@ En caso de que algún dato sea incorrecto, el programa volverá a solicitar la i
 •	Desglose mensual del crédito: cálculo de intereses, abono al capital y saldo pendiente.
 
 •	Sumatoria de los montos totales pagados y de los intereses acumulados.
+## Datos de Salida
+Aqui va el texto
+## Tecnología Utilizada
+Aqui va el texto
+# Capturas
+## Ejercicio 1
+<img width="400" height="225" alt="F1tl" src="https://github.com/user-attachments/assets/00996af5-6b4b-4810-bdd9-5e299da1ff30" />
+<img width="400" height="225" alt="F2" src="https://github.com/user-attachments/assets/8f3f95a5-3dda-4c35-a14c-281530ff1465" />
+<img width="400" height="225" alt="F3" src="https://github.com/user-attachments/assets/b269716f-fda4-4147-9759-3bde4f8a5f00" />
+<img width="400" height="225" alt="F4" src="https://github.com/user-attachments/assets/8639b8be-720a-4236-a880-70499a55df85" />
+<img width="400" height="225" alt="F5" src="https://github.com/user-attachments/assets/3b16b150-855e-49ac-aafd-cc4d73530ac0" />
+ 
+## Ejercicio 2
+<img width="400" height="225" alt="2F" src="https://github.com/user-attachments/assets/4ea75239-e6d8-4d66-a3ce-8e5fd059532b" />
+<img width="800" height="450" alt="2F1" src="https://github.com/user-attachments/assets/acee12c9-a94b-49d3-a9b4-fc1d8c462e80" />
 
 
 
