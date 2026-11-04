@@ -42,4 +42,16 @@ Aqui va el texto
 ## Tecnología Utilizada
 Aqui va el texto
 # Capturas
-Aqui van las imagenes
+## Ejercicio 1
+<img width="400" height="225" alt="F1tl" src="https://github.com/user-attachments/assets/00996af5-6b4b-4810-bdd9-5e299da1ff30" />
+<img width="400" height="225" alt="F2" src="https://github.com/user-attachments/assets/8f3f95a5-3dda-4c35-a14c-281530ff1465" />
+<img width="400" height="225" alt="F3" src="https://github.com/user-attachments/assets/b269716f-fda4-4147-9759-3bde4f8a5f00" />
+<img width="400" height="225" alt="F4" src="https://github.com/user-attachments/assets/8639b8be-720a-4236-a880-70499a55df85" />
+<img width="400" height="225" alt="F5" src="https://github.com/user-attachments/assets/3b16b150-855e-49ac-aafd-cc4d73530ac0" />
+ 
+## Ejercicio 2
+<img width="400" height="225" alt="2F" src="https://github.com/user-attachments/assets/4ea75239-e6d8-4d66-a3ce-8e5fd059532b" />
+<img width="800" height="450" alt="2F1" src="https://github.com/user-attachments/assets/acee12c9-a94b-49d3-a9b4-fc1d8c462e80" />
+
+
+
