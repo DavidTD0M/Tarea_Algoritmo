@@ -95,11 +95,12 @@ do // Bucle principal del programa
                                 }
                                 break;
                             case 4: //Salir
-                                Console.WriteLine($"Cantidad de depositos realizados: {cantidadDepositos}");
-                                Console.WriteLine($"Cantidad de retiros realizados: {cantidadRetiros}");
-                                Console.WriteLine($"Saldo final: RD$ {saldo}");
-                                Console.WriteLine("\nSaliendo del sistema...");
+                                Console.WriteLine("Cantidad de depositos realizados: " + cantidadDepositos);
+                                Console.WriteLine("Cantidad de retiros realizados: " + cantidadRetiros);
+                                Console.WriteLine("Saldo final: RD$" + saldo);
+                                Console.WriteLine("Saliendo del sistema...");
                                 break;
+
                             default: //Opcion invalida
                                 Console.WriteLine("Opción inválida. Por favor, seleccione una opción válida.");
                                 break;
@@ -134,7 +135,7 @@ do // Bucle principal del programa
                     Console.Write(
                         "Monto del prestamo (RD$5,000 a RD$500,000): RD$ ");
 
-                    while (!decimal.TryParse(Console.ReadLine(), out monto) |   
+                    while (!decimal.TryParse(Console.ReadLine(), out monto) ||  
                            monto < MONTO_MIN || monto > MONTO_MAX)
                     {
                         Console.Write(
