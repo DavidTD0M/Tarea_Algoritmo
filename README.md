@@ -69,9 +69,19 @@ En caso de que algún dato sea incorrecto, el programa volverá a solicitar la i
 
 •	Sumatoria de los montos totales pagados y de los intereses acumulados.
 ## Datos de Salida
-Aqui va el texto
+· Menús y mensajes de validación o error.
+· Saldo actual, confirmación de depósitos y retiros.
+· Resumen al salir del cajero: cantidad de depósitos, cantidad de
+retiros y saldo final.
+· Resumen del préstamo (monto, plazo, categoría, tasas y cuota fija).
+· Tabla de amortización (mes, cuota, interés, abono a capital, saldo).
+· Total pagado y total de intereses.
 ## Tecnología Utilizada
-Aqui va el texto
+Tecnología utilizada
+· Lenguaje: C# (aplicación de consola)
+. Plataforma: .NET 8 o superior el proyecto usa Rol1Forward
+para correr en versiones más nuevas. (En pocas palabras: evita que el programa falle por falta de compatibilidad cuando se actualiza la versión de .NET en el equipo.
+· Control de versiones: GitHub)
 # Capturas
 ## Ejercicio 1
 <img width="400" height="225" alt="F1tl" src="https://github.com/user-attachments/assets/00996af5-6b4b-4810-bdd9-5e299da1ff30" />
